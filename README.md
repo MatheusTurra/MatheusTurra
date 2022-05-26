@@ -1,6 +1,7 @@
 # Matheus Farisco Turra 🚀.
 
-Sou um programador júnior que possui experiência com desenvolvimento Front End e atualmente busco me especializar em Back End
+Sou um programador júnior que possui experiência com desenvolvimento Front End e atualmente busco me especializar em Back End.
+
 Procuro sempre evoluir minhas habilidades para aumentar a minha produtividade como desenvolvedor. Ajudar e adquirir conhecimento para me manter atualizado são minhas maiores motivações.
 
 <a href="https://github.com/MatheusTurra" style="display: inline-block;" target="_blank">
